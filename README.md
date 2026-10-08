@@ -1,6 +1,6 @@
-Ini adalah repository pertama saya\n
-Nama    : Aldilah Mirsya Alessandria\n
-NIM     : 264107020034\n
+Ini adalah repository pertama saya
+Nama    : Aldilah Mirsya Alessandria
+NIM     : 264107020034
 Kelas   : TI-1A
 
 Hasil Uji Studi Kasus 2 oleh <Izzatul Maula>
